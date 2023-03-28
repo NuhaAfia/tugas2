@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: aquamarine;
+    height: 90px;
+    width: 100%;
+    color: white; 
+}
+
+.header-logo{
+    font-size: 20px;
+    float: left;
+    padding: 20px 40px;
+}
+.logo{
+    font-size: 20px;
+    float:left;
+    padding: 20px 40px;
+}
+.logo1{
+    float: left;
+    padding: 20px 40px;
+}
+.list{
+    float:left;
+}
+ul{
+    list-style: none;
+}
+list li{
+    float:left;
+    padding: 33px 20px;
+}
+.container{
+    height: 20px;
+    width: 40;
+
+}
+.banner{
+    text-align: center;
+    color: white;
+    padding: 200px 0px 100px 0px;
+    background: url(https://prog-8.com/images/html/advanced/top_en.png);
+    background-size: cover;
+}
+.banner h1{
+    font-size: 100px;
+    opacity:0.8px;
+}
+.banner p{
+    font-size: 20px;
+    font-weight: normal;
+    opacity: 0.8px;
+}
+.banner span{
+    color:tomato;
+}
+
+/*selector{
+    property: value;
+}/*
